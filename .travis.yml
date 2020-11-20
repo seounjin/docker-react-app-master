@@ -2,7 +2,7 @@
 
 language: generic
 
-dist: Bionic
+dist: xenial
 
 services:
     - docker
